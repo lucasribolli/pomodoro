@@ -52,7 +52,7 @@ class TimeIn extends StatelessWidget {
                 Text(
                 '${this.value} min',
                   style: TextStyle(
-                    fontSize: 9.sp,
+                    fontSize: 11.sp,
                   ),
                 ),
                 SizedBox(height: 5.h),
